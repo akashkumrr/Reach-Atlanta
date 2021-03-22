@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CYBORG TESTING Working BOW Override controller
+  m_Controller: {fileID: 9100000, guid: b6f6797fbe15aa04898aeca46b336bab, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c60eeffa693ac7144b40f03c0153e666, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c60eeffa693ac7144b40f03c0153e666, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c2625894d16ae64d9a404d1fea8c334, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c2625894d16ae64d9a404d1fea8c334, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3d688ff3b5537aa4fa9408eda298b7d9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3d688ff3b5537aa4fa9408eda298b7d9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5132a2098c5dbd4199ba0c075714de7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5dd320951972a43418088e8d1782ed2a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 289b21dd398e534458eb97afc4c0f234, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 289b21dd398e534458eb97afc4c0f234, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4022be5ee6dbf94090ab250cc4c99cc, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 87b13947fdb68ca4581816aa0312380f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1fef96059b967b34fa19390c1dfc8944, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 87b13947fdb68ca4581816aa0312380f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2717a85b66123e541a8e663b9a5eb057, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 49863f985ebb7de42bcbfbc0b542ab8d, type: 2}
