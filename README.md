@@ -10,6 +10,7 @@
 * Built Aim assist system : To help player in shooting when enemies are in vicinity of the player
 * Created an objective tracking system : To help create track of missions
 * Implemented Field of view mesh generation technique : To enable enemy AI to detect player in it's visible field of view range
+* Used animator controllers for implementing animations and animation events for handling NPC's and player's actions
 * Built state machine based enemy AI along with navigation.
 * Created C/# interfaces to make code more flexible.
 * Implemented ragdoll physics for enemies using vector maths 
